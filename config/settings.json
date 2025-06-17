@@ -1,0 +1,10 @@
+{
+    "retries": 5,
+    "custom_apis": [
+        "https://catboy.best/d/{id}"
+    ],
+    "retry_delay_seconds": 2,
+    "zip_after_download": true,
+    "skip_existing": true, 
+    "enable_osu_api_fallback": false
+}
